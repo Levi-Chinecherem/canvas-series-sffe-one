@@ -1,0 +1,16 @@
+body{
+    overflow: hidden;
+    padding: 0px;
+    margin: 0px;
+    background: #3C49B6;
+  }
+  canvas {
+    opacity: 1;
+    width: 500;
+    height: 500;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
